@@ -1,6 +1,6 @@
 # TumorVision
 
-Check out our demo on : [https://deepwiki.com/mingnatthakitt/TumorVision]
+Check out our demo on : https://tumorvision-btis.streamlit.app
 
 TumorVision is an innovative tool designed to empower healthcare professionals in the diagnosis of brain tumors. By leveraging a cutting-edge machine learning model, this application provides rapid and accurate identification of various brain tumor types from MRI scans.
 
