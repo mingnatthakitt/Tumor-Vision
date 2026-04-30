@@ -1,6 +1,8 @@
 
 # TumorVision
 
+## DEPRECIATED NEW REPO [@mingnatthakitt/TumorVision](https://github.com/mingnatthakitt/TumorVision/)
+
 [Check out our demo](https://btis-tumorvision.streamlit.app)
 
 TumorVision is an innovative tool designed to empower healthcare professionals in the diagnosis of brain tumors. By leveraging a cutting-edge machine learning model, this application provides rapid and accurate identification of various brain tumor types from MRI scans.
